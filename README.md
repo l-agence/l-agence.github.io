@@ -1,2 +1,2 @@
 # l-agence.github.io
-L' agence - Agentic Engineering 
+L' agence (^) - Agentic Engineering 
